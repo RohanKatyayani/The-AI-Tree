@@ -25,4 +25,4 @@ If a regular computer is a super-fast calculator that follows orders, an AI is l
 *   A **robot vacuum** figuring out the best path to clean your room.
 
 ---
-*🔍 **See Next:** This big AI tree has many branches. The first and most important one is [[Machine Learning]], which is how most modern AI learns.*
+*🔍 **See Next:** This big AI tree has many branches. The first and most important one is Machine Learning, which is how most modern AI learns.*
